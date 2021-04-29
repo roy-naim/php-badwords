@@ -1,5 +1,6 @@
 <?php
   $testo = 'Pinco Pallino';
+  var_dump($testo);
 ?>
 
 <div class="">
